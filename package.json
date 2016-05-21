@@ -1,0 +1,22 @@
+{
+  "name": "cordova-plugin-streamsure",
+  "version": "0.0.1",
+  "description": "cordova-plugin-streamsure",
+  "keywords": [
+    "cordova-plugin-streamsure"
+  ],
+  "author": {
+    "name": "streamsure",
+    "email": "cordova@streamsure.com",
+    "url": "https://www.streamsure.com"
+  },
+  "homepage": "https://www.streamsure.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/streamsure/cordova-plugin-streamsure"
+  },
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  }
+}
